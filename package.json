@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellhobart/lambda-sendgrid-cron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellhobart/lambda-sendgrid-cron/issues"
+  },
+  "homepage": "https://github.com/michaellhobart/lambda-sendgrid-cron#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.5.5"
+  }
+}
